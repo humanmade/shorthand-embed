@@ -1,0 +1,7 @@
+{
+    "name": "humanmade/shorthand-embed",
+    "description": "Shorthand projects support for WordPress",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {}
+}
