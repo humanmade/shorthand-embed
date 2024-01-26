@@ -10,3 +10,5 @@ Then, in your post editor, paste a link to a Shorthand project on its own line. 
 
 E.G.:
 https://mau-gelves.shorthandstories.com/floral-blooms-in-the-desert/
+
+Made with ❤️ by [Human Made](https://humanmade.com/)
