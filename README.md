@@ -1,4 +1,4 @@
-# WordPress BuzzSprout Podcast Embeds
+# WordPress Shorthand Embeds
 This plugin adds basic embedding support for https://shorthand.com/ projects.
 
 Usage
